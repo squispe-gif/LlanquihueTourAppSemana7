@@ -44,7 +44,7 @@ src/
 ```
 === Servicio Turístico ===
 Nombre: Ruta del Curanto
-Destino: Puerto Varas
+Destino: Puerto Varas        
 Duración: 4 horas
 Precio: $25000.0
 Tipo de servicio: Ruta Gastronómica
