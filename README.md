@@ -43,12 +43,13 @@ src/
 
 ```
 === Servicio Turístico ===
-Nombre: Ruta del Curanto
-Destino: Puerto Varas        
-Duración: 4 horas
-Precio: $25000.0
-Tipo de servicio: Ruta Gastronómica
-Tipo de cocina: Comida típica chilota
+Nombre: Ruta de los Volcanes
+Destino: Puerto Octay
+Duración: 6 horas
+Precio: $35000.0
+Tipo de servicio: Excursión Cultural
+Sitio histórico: Volcán Osorno
+Incluye guía bilingüe: No
 ---------------------------------
 ...
 Total de servicios registrados: 6
